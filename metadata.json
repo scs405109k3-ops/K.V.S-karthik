@@ -1,0 +1,5 @@
+{
+  "name": "Namaste AI",
+  "description": "A responsive chat application called Namaste AI, built with React, TypeScript, and Tailwind CSS, and powered by the Google Gemini API.",
+  "requestFramePermissions": []
+}
